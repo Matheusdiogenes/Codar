@@ -1,0 +1,198 @@
+body {
+  margin: 0px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 1%;
+}
+
+#codar {
+  color: #D6000D;
+  font-size: 2.5em;
+  font-weight: 800;
+}
+
+.login {
+  margin-left: 1em;
+  background-color: #D6000D;
+  padding: 0.5em 2em;
+  border-radius: 0.5em;
+  color: white;
+  border-style: none;
+}
+
+#menu {
+  margin-left: 1em;
+}
+
+.logo{
+  width: 25%;
+}
+
+.marketing {
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.propaganda {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+div.marketing > div > span:nth-child(1) {
+  font-weight: 700;
+}
+
+div.marketing > div > span:nth-child(2) {
+  color: #D6000D;
+  font-size: 2.5em;
+  font-weight: 800;
+  margin-bottom: 10%; 
+}
+
+
+section {
+  display: flex;
+  flex-direction: column;  
+}
+
+.service {
+  display: flex;
+  align-items: center;
+  margin: 0.2em;
+  height: 2em;  
+}
+
+.check-icon {
+  height: 1em;
+  padding: 0.1em;
+  background-color: #D6000D;
+  border-radius: 50%;
+  margin-right: 1em;
+}
+
+#deixe-seu-contato {
+  font-weight: 700; 
+  padding-top: 5%;
+  padding-left: 10%;
+  padding-bottom: 5%;
+}
+
+#solicitar {
+  background-color: #D6000D;
+  padding: 0.5em 2em;
+  height: 3em;
+  border-radius: 0.5em;
+  color: white; 
+  border-style: none;
+}
+
+input {
+  max-width: 220px;
+  height: 2em;
+  border-radius: 0.5em;
+  border-style: none;
+  background-color: #e6e6e6;
+  padding: 0.6em;
+  margin-top: 1%;
+}
+
+.depoimentos {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+
+body > div:nth-child(5) {
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  background-color: #D6000D;  
+  margin: 1em;
+  padding: 1em;
+  border-radius: 50%;
+  width: 50px;
+  height: 30px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  height:  max-content;
+  background-color: #e6e6e6;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em;  
+  text-align: justify;
+}
+
+.nome-1 {
+  font-size: 1.5em;
+  font-weight: 800;
+}
+
+.nome-2 {
+  font-weight: 500;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+  padding-top: 2em;
+  padding-bottom: 5em;
+  
+}
+
+.nivel-1 {
+  font-size: 2em;
+  font-weight: 900;
+  margin-bottom: 0.3em;
+}
+
+.nivel-2 {  
+  font-size: 1.2em;
+  font-weight: 900;
+  margin-top: 0.6em;
+  margin-bottom: 0.7em;
+}
+
+.info-footer {
+  margin-bottom: 0.7em;
+}
+
+.card-2 {
+  display: flex;
+  flex-direction: column;
+}
+
+#social {
+  display: flex;
+  height: 3vmax;
+  width: 3vmax;
+}
+
+.icon {
+  background-color: white;
+  padding: 0.3em;
+  margin: 0.3em;
+  border-radius: 50%;
+}
