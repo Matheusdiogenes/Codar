@@ -9,14 +9,13 @@ Criar uma página sobre uma empresa que desenvolve sites. O modelo final está d
 
 ### Abaixo o meu resultado
 
+Para conferir melhor resultado, basta fazer o download em ZIP ou clonar o repositório e abrir o arquivo `index.html`
+
 Codar Web
 
 https://user-images.githubusercontent.com/53796789/169174727-56b97ea9-04e0-46ed-a6a0-4cb887658f0d.mp4
 
 Codar Mobile
-
-
-
 
 https://user-images.githubusercontent.com/53796789/169175251-70143f56-6732-4b2c-9e8c-125e579dbd45.mp4
 
